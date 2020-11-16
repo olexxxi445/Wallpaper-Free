@@ -1,0 +1,3 @@
+wp run mpv --wid=66566 Test.wmv --loop=inf --player-operation-mode=pseudo-gui --force-window=yes --no-audio
+
+
